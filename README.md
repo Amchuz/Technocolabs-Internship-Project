@@ -1,6 +1,6 @@
 # Data Science Internship at Technocolabs
  
-## Assesments
+## Assessments
 
 ## Mini Projects :
   
